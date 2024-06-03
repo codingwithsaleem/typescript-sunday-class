@@ -1,2 +1,2 @@
 # typescript-sunday-class
-Assignment
+Assignments
